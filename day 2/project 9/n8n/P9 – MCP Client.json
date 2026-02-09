@@ -78,9 +78,24 @@
         },
         "workflowInputs": {
           "mappingMode": "defineBelow",
-          "value": {},
-          "matchingColumns": [],
-          "schema": [],
+          "value": {
+            "query": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('query', ``, 'string') }}"
+          },
+          "matchingColumns": [
+            "query"
+          ],
+          "schema": [
+            {
+              "id": "query",
+              "displayName": "query",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "canBeUsedToMatch": true,
+              "type": "string",
+              "removed": false
+            }
+          ],
           "attemptToConvertTypes": false,
           "convertFieldsToString": false
         }
@@ -188,7 +203,7 @@
     "binaryMode": "separate",
     "availableInMCP": false
   },
-  "versionId": "a8d91d99-9fe8-4a9f-a5f7-ca9eac5151b5",
+  "versionId": "3c98b425-1c4e-42e1-af60-cde7db6daeca",
   "meta": {
     "templateCredsSetupCompleted": true,
     "instanceId": "26bf8eec37d4d0a7ee8a9b62eaf593a40b0ce784017882c7b978518d626df3a8"
