@@ -3,9 +3,9 @@ User Name: Mike
 Submitted: 2026-02-10T11:36:58.106-05:00
 
 Description:
-User reports they have lost their keyboard. This is a hardware issue requiring IT support.
+User reports they have lost their keyboard. This is a hardware issue requiring IT support. User is now inquiring about reimbursement for a self-purchased replacement.
 
-Status: Closed
+Status: Open
 Prio: Not Urgent
 
 Activity Log:
@@ -13,3 +13,4 @@ Activity Log:
 2026-02-10T11:40:00.000-05:00 - User reported they found the keyboard. Problem resolved. Ticket closed.
 2026-02-10T11:45:00.000-05:00 - User reported losing the keyboard again. Reopening ticket for IT assistance.
 2026-02-10T11:50:00.000-05:00 - User decided to purchase a new keyboard independently. No further IT action required. Ticket closed.
+2026-02-10T11:55:00.000-05:00 - User inquired about reimbursement for purchasing their own keyboard. Reopening ticket and escalating to a human IT technician for policy clarification.
