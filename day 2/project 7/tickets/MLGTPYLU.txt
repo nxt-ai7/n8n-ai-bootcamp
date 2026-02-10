@@ -5,9 +5,10 @@ Submitted: 2026-02-10T11:36:58.106-05:00
 Description:
 User reports they have lost their keyboard. This is a hardware issue requiring IT support.
 
-Status: Closed
+Status: Open
 Prio: Not Urgent
 
 Activity Log:
 2026-02-10T11:36:58.106-05:00 - Ticket created. Escalated for hardware support.
 2026-02-10T11:40:00.000-05:00 - User reported they found the keyboard. Problem resolved. Ticket closed.
+2026-02-10T11:45:00.000-05:00 - User reported losing the keyboard again. Reopening ticket for IT assistance.
