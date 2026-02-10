@@ -132,7 +132,7 @@ Options
 | --- | ---- | ----- |
 | Content | String | `{{ $json.document.pageContent }}` |
 | Source File | String | `{{ $json.document.metadata.file_name }}` |
-| Page | String | `Page` |
+| Page | String | `{{ $json.document.metadata['loc.pageNumber'] }}` |
 
 ### 5. Add `Aggregate` Node 
 - **Aggregate**: `All Item Data (Into a Single List)`
