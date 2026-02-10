@@ -1,0 +1,9 @@
+User Name: Mike
+
+Submitted: 2026-02-10T12:35:00.649-05:00
+
+Description:
+User wants to install macOS on their device.
+
+Status: Open
+Prio: Not Urgent
